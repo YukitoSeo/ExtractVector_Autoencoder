@@ -51,5 +51,7 @@ python ae_ml_model.py
 ```
 
 ### STEP-4:オートエンコーダと距離学習モデルによる推論
-### STEP-5:
-### STEP-6:
+以下のコマンドで、ae_ml_model.pyを起動することで、推論を開始します。
+```
+python clastering.py
+```
