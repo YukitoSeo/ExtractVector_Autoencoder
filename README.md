@@ -8,10 +8,10 @@
     ├── model (Folder)
     ├── dataset
     │   ├── class1
-    │   │   ├── image1.jpg
+    │   │   ├── image1.png
     │   │   └── ・・・
     │   ├── class2
-    │   │   ├── image102.jpg
+    │   │   ├── image102.png
     │   │   └── ・・・
     │   └── ・・・
     ├── ae_ml_model.py
